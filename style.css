@@ -1,0 +1,22 @@
+div {
+    font-family:  'Baloo Thambi 2';
+    width: 300px;
+}
+
+p:hover {
+    background-color: rgb(172, 43, 33);
+}
+
+p {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    margin: 0px;
+    padding: 10px;
+}
+
+#last {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 0 solid black;
+}
